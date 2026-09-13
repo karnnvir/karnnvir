@@ -6,15 +6,9 @@
 
 Over 25 years across technology, product, ecommerce, consumer products and enterprise software, I've worked on problems where the answer isn't obvious.
 
-Decide what is actually worth building?
+I decide what is actually worth building. I align teams that don't report to me. I Create organizations that scale beyond individual leaders.
 
-Align teams that don't report to you?
-
-Create organizations that scale beyond individual leaders?
-
-And now:
-
-Product leadership change when software can reason, learn and act?
+And now experiencing Product leadership change when software can reason, learn and act.
 
 This portfolio is a look at how I think, lead, operate, and what I'm building next.
 
