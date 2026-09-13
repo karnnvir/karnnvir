@@ -35,7 +35,7 @@ As a product leader, my job isn't to have all the answers.
 It's to create the clarity, ownership and environment in which teams can make good decisions themselves.
 
 I care about developing product leaders, building high-performing teams and creating organizations that become stronger without becoming dependent on me.
-
+[Read mor eon How I lead](https://github.com/karnnvir/karnnvir/blob/main/approach/How-I-Lead.md)
 
 **How I Operate**
 
