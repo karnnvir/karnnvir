@@ -75,7 +75,6 @@ Stop or continue?
 Feature or system?
 AI or rules?
 Standardize or localize?
-
 The interesting part isn't just what decision was made. It's the why.
 
 **What I've Learned Along the Way**
