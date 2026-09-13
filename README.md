@@ -10,7 +10,7 @@ I decide what is actually worth building. I align teams that don't report to me.
 
 And now experiencing Product leadership change when software can reason, learn and act.
 
-## Projects actively maintained:
+**Projects actively maintained:**
 home-biz-crm - This is voice enabled natural language driven CRM for small home business
 daily-habits - A gamified personal habit tracker for tracking and managing daily habits
 
