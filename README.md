@@ -3,6 +3,7 @@
 👨‍💻 My name is Karanvir and I live in Bangalore, IN with my wife and son. I am a Product Leader at Walmart Global Tech where I support the Customer Service Experience team.
 
 **I build products, teams and systems that solve complex customer problems.**
+
 Over 25 years across technology, product, ecommerce, consumer products and enterprise software, I've worked on problems where the answer isn't obvious.
 
 Decide what is actually worth building?
@@ -18,6 +19,7 @@ Product leadership change when software can reason, learn and act?
 This portfolio is a look at how I think, lead, operate, and what I'm building next.
 
 **How I Think**
+
 Product leadership starts with judgment.
 
 It's about finding the right problem, understanding the system around it, making decisions with imperfect information, and knowing what not to build.
@@ -26,6 +28,7 @@ I believe the best product decisions often come from asking a better question ra
 
 
 **How I Lead**
+
 As a product leader, my job isn't to have all the answers.
 
 It's to create the clarity, ownership and environment in which teams can make good decisions themselves.
@@ -34,6 +37,7 @@ I care about developing product leaders, building high-performing teams and crea
 
 
 **How I Operate**
+
 Strategy only matters when an organization can consistently turn it into decisions and execution.
 
 I've developed a product operating philosophy around clarity, ownership, rhythm, measurement and continuous learning.
@@ -42,6 +46,7 @@ Because sustainable performance shouldn't depend on heroics.
 
 
 **AI & Agents**
+
 AI is changing the solution space for product teams.
 
 But it doesn't eliminate product judgment.
@@ -62,6 +67,7 @@ Turn a collection of PMs into a product organization?
 Build and scale consumer and B2B business?
 
 **Decisions I've Made**
+
 Behind every product outcome is a series of decisions.
 
 Build or buy?
@@ -73,6 +79,7 @@ Standardize or localize?
 The interesting part isn't just what decision was made. It's the why.
 
 **What I've Learned Along the Way**
+
 Some principles came from success. Some came from getting things wrong.
 
 I validated the need. I didn't validate the trust.
@@ -90,6 +97,7 @@ AI changes what is possible. It doesn't remove the need for judgment.
 
 
 **The Next Chapter**
+
 I'm building AI agents not just to learn the technology, but to explore what happens when software moves from answering questions to taking action.
 
 The goal isn't to build impressive demos.
