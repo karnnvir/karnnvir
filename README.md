@@ -26,7 +26,7 @@ It's about finding the right problem, understanding the system around it, making
 
 I believe the best product decisions often come from asking a better question rather than finding a better answer.
 
-[Read more on How I think] (https://github.com/karnnvir/karnnvir/approach/How-I-Think.md)
+[Read more on How I think](https://github.com/karnnvir/karnnvir/blob/main/approach/How-I-Think.md)
 
 **How I Lead**
 
