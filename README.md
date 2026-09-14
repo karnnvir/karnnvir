@@ -12,13 +12,13 @@ And now experiencing Product leadership change when software can reason, learn a
 
 **Projects actively maintained:**
 
-home-biz-crm - This is voice enabled natural language driven CRM for small home business
+[home-biz-crm]([home-biz-crm](https://github.com/karnnvir/home-biz-crm)) - This is voice enabled natural language driven CRM for small home business
 
-daily-habits - A gamified personal habit tracker for tracking and managing daily habits
+[daily-habits](https://github.com/karnnvir/Daily-Habits) - A gamified personal habit tracker for tracking and managing daily habits
 
 This portfolio is a look at how I think, lead, operate, and what I'm building next.
 
-**How I Think**
+[**How I Think**](https://github.com/karnnvir/karnnvir/blob/main/approach/How-I-Think.md)
 
 Product leadership starts with judgment.
 
@@ -26,9 +26,7 @@ It's about finding the right problem, understanding the system around it, making
 
 I believe the best product decisions often come from asking a better question rather than finding a better answer.
 
-[Read more on How I think](https://github.com/karnnvir/karnnvir/blob/main/approach/How-I-Think.md)
-
-**How I Lead**
+[**How I Lead**](https://github.com/karnnvir/karnnvir/blob/main/approach/How-I-Lead.md)
 
 As a product leader, my job isn't to have all the answers.
 
@@ -36,9 +34,7 @@ It's to create the clarity, ownership and environment in which teams can make go
 
 I care about developing product leaders, building high-performing teams and creating organizations that become stronger without becoming dependent on me.
 
-[Read more on How I lead](https://github.com/karnnvir/karnnvir/blob/main/approach/How-I-Lead.md)
-
-**How I Operate**
+[**How I Operate**](https://github.com/karnnvir/karnnvir/blob/main/approach/How-I-Operate.md)
 
 Strategy only matters when an organization can consistently turn it into decisions and execution.
 
@@ -57,44 +53,25 @@ It raises new questions:
 
 What should AI do? What should deterministic software do? And where should humans remain accountable?
 
-I'm exploring these questions through AI product thinking, AI development, evaluation, governance — and by actually building agents.
-
+I'm exploring these questions through AI product thinking, AI development, evaluation, [governance](https://medium.com/@karanvir_singh/ai-governance-from-compliance-checklist-to-product-operating-system-0bd1a4f03e32) — and by actually building agents.
 
 **The Problems I've Spent My Career Wrestling With**
 
 Reduce customer contacts without simply making the contact center more efficient?
+
 Introduce GenAI into a high-volume customer experience without sacrificing trust?
+
 Turn millions of customer conversations into product decisions?
+
 Turn a collection of PMs into a product organization?
+
 Build and scale consumer and B2B business?
 
 **Decisions I've Made**
 
 Behind every product outcome is a series of decisions.
 
-Build or buy?
-Stop or continue?
-Feature or system?
-AI or rules?
-Standardize or localize?
-The interesting part isn't just what decision was made. It's the why.
-
-**What I've Learned Along the Way**
-
-Some principles came from success. Some came from getting things wrong.
-
-I validated the need. I didn't validate the trust.
-
-Statistics start arguments. Specific orders start fixes.
-
-When a team says no, diagnose capacity versus willingness.
-
-Executive trust is built in peacetime.
-
-The best leaders create people who don't need them.
-
-AI changes what is possible. It doesn't remove the need for judgment.
-
+Build or buy? Stop or continue? Feature or system? AI or rules? Standardize or localize? The interesting part isn't just what decision was made. It's the why.
 
 
 **The Next Chapter**
