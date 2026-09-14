@@ -30,42 +30,6 @@ Sometimes the PM changes their recommendation. Sometimes I change mine. That is 
 
 ---
 
-### I try to create opportunities, not just responsibilities
-
-I've also learned that giving someone ownership isn't enough to develop them.
-
-A PM can own a large product for years and still not develop into a leader if they aren't given opportunities to influence outside their immediate area.
-
-So I deliberately look for opportunities for people to represent their work in larger forums, lead discussions with senior stakeholders, present business reviews, take on ambiguous problems and work across organizational boundaries.
-
-Sometimes that means putting someone into a situation where they aren't completely comfortable yet.
-
-I've had PMs lead meetings while I sat back and observed. We've then discussed afterwards what worked, where they lost the room, what they could have done differently and how they might approach the next conversation.
-
-I think this is particularly important as someone moves from being a strong PM to becoming a product leader. **The size of the problem has to grow, but so does the size of the influence.**
-
----
-
-### When I disagree with someone
-
-I've had plenty of situations where an engineering leader, operations leader or senior executive has wanted to take the product in a direction I didn't agree with. My approach is generally to first understand whether we are actually disagreeing about the problem, the facts or the trade-off.
-
-A good example was a discussion around whether Mexico should prioritize chatbot or voicebot capabilities. Rather than turning it into a debate about which team had the better idea, I tried to bring the conversation back to the two things that mattered: how quickly we could deliver and what would have the greater customer and business impact. We worked through the evidence, aligned the relevant teams and came forward with a recommendation. The decision eventually changed.
-
-The important part here is that I want people to feel they can disagree with me, and I want to be able to change my own mind when the evidence warrants it. I've learned that being right is less valuable than **making the organization better at making decisions.**
-
----
-
-### When a team says “no”
-
-Another situation I've encountered often is a partner team saying they can't support something we need. My first reaction used to be frustration. I've learned to diagnose the problem instead. Sometimes “no” means “we don't believe this is important enough.” Sometimes it means “we agree, but we genuinely don't have the capacity.” Those require completely different responses. If it's willingness, I need to make the case better. I need to create visibility around the customer and business impact and get the right leaders aligned. If it's capacity, arguing harder doesn't solve anything. We need to look at funding, staffing, sequencing or scope.
-
-This distinction became particularly important when I was working across customer care and fulfillment. The customer outcome I was accountable for couldn't be improved by the Customer Care team alone. We needed other organizations to prioritize work that wasn't necessarily on their immediate roadmap. Rather than treating that as a stakeholder-management problem, I tried to make it a shared business problem. We created a common view of the customer journey, aligned on priorities and eventually worked through a model where the necessary capability could actually be funded.
-
-That experience reinforced something I use quite often: **When someone says no, first understand what the “no” actually means.**
-
----
-
 ### I believe leaders should create mechanisms, not dependency
 
 As organizations grow, you can't personally coach every decision or sit in every meeting. That's why I've spent time creating teh following:
@@ -90,21 +54,31 @@ The purpose isn't to introduce process for its own sake. It's to make good produ
 
 ### Developing future product leaders
 
-One of the things I'm proudest of in my leadership career is seeing people I worked with grow into larger roles.
+One of the things I'm proudest of in my leadership career is seeing people I worked with grow into larger roles. I've led my PMs progress through multiple levels, from early-career roles through senior and staff/principal positions. That doesn't happen through one promotion conversation. The PM development is a progression. Initially, I may provide a lot of structure. Then I start pushing more decision-making onto the person. I give them increasingly ambiguous problems, broader stakeholder exposure and eventually responsibility for developing others.
 
-I've seen PMs progress through multiple levels, from early-career roles through senior and staff/principal positions.
-
-That doesn't happen through one promotion conversation.
-
-For me, development is a progression.
-
-Initially, I may provide a lot of structure. Then I start pushing more decision-making onto the person. I give them increasingly ambiguous problems, broader stakeholder exposure and eventually responsibility for developing others.
-
-At some point, my role changes from coaching their decisions to creating opportunities for them to lead.
-
-And eventually, I want them to be capable of doing some things better than I can.
+I deliberately create opportunities for PMs to represent their work beyond their immediate team. That can mean: Business reviews, Monthly/quarterly leadership forums, Strategy discussions, Executive updates, Presenting product decisions, Leading stakeholder conversations.  And eventually, I want them to be capable of doing some things better than I can.
 
 **My ultimate responsibility is to create leaders who can replace me. **
+
+---
+
+### When I disagree with someone
+
+I've had plenty of situations where an engineering leader, operations leader or senior executive has wanted to take the product in a direction I didn't agree with. My approach is generally to first understand whether we are actually disagreeing about the problem, the facts or the trade-off.
+
+A good example was a discussion around whether Mexico should prioritize chatbot or voicebot capabilities. Rather than turning it into a debate about which team had the better idea, I tried to bring the conversation back to the two things that mattered: how quickly we could deliver and what would have the greater customer and business impact. We worked through the evidence, aligned the relevant teams and came forward with a recommendation. The decision eventually changed.
+
+The important part here is that I want people to feel they can disagree with me, and I want to be able to change my own mind when the evidence warrants it. I've learned that being right is less valuable than **making the organization better at making decisions.**
+
+---
+
+### When a team says “no”
+
+Another situation I've encountered often is a partner team saying they can't support something we need. My first reaction used to be frustration. I've learned to diagnose the problem instead. Sometimes “no” means “we don't believe this is important enough.” Sometimes it means “we agree, but we genuinely don't have the capacity.” Those require completely different responses. If it's willingness, I need to make the case better. I need to create visibility around the customer and business impact and get the right leaders aligned. If it's capacity, arguing harder doesn't solve anything. We need to look at funding, staffing, sequencing or scope.
+
+This distinction became particularly important when I was working across customer care and fulfillment. The customer outcome I was accountable for couldn't be improved by the Customer Care team alone. We needed other organizations to prioritize work that wasn't necessarily on their immediate roadmap. Rather than treating that as a stakeholder-management problem, I tried to make it a shared business problem. We created a common view of the customer journey, aligned on priorities and eventually worked through a model where the necessary capability could actually be funded.
+
+That experience reinforced something I use quite often: **When someone says no, first understand what the “no” actually means.**
 
 ---
 
@@ -118,23 +92,4 @@ I've come to think of this as building trust in peacetime. You don't build credi
 
 ---
 
-## 06 — GIVE PEOPLE VISIBILITY, NOT JUST RESPONSIBILITY
-### Ownership without visibility can limit growth.
-
-I deliberately create opportunities for PMs to represent their work beyond their immediate team.
-
-That can mean:
-
-Business reviews
-Monthly/quarterly leadership forums
-Strategy discussions
-Executive updates
-Presenting product decisions
-Leading stakeholder conversations
-
-I don't want my PMs to become excellent at explaining things to me.
-
-I want them to become excellent at explaining, influencing and defending their decisions to the organization.
-
-That is where product leadership starts to emerge.
 
