@@ -12,7 +12,7 @@ And now experiencing Product leadership change when software can reason, learn a
 
 **Projects actively maintained:**
 
-[home-biz-crm]([home-biz-crm](https://github.com/karnnvir/home-biz-crm)) - This is voice enabled natural language driven CRM for small home business
+[home-biz-crm](https://github.com/karnnvir/home-biz-crm) - This is voice enabled natural language driven CRM for small home business
 
 [daily-habits](https://github.com/karnnvir/Daily-Habits) - A gamified personal habit tracker for tracking and managing daily habits
 
