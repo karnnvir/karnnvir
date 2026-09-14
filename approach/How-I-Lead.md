@@ -2,60 +2,38 @@
 
 I measure it by how much the team can accomplish **without me**.
 
-I don't want to be the person with all the answers.
+I don't want to be the person with all the answers. I want to create the clarity, standards, coaching, trust and opportunities that allow other people to make great decisions and own the outcomes.
 
-I want to create the clarity, standards, coaching, trust and opportunities that allow other people to make great decisions and own the outcomes.
-
-My job is to:
-
-**Set the direction.
+My job is to: **Set the direction.
 Raise the bar.
 Develop judgment.
 Remove obstacles.
 Create ownership.
-Build the next generation of leaders.**
-
-And then gradually get out of the way.
+Build the next generation of leaders.** And then gradually get out of the way.
 
 ## 01 — CREATE CLARITY, THEN CREATE OWNERSHIP
 ### People can't own what they don't understand.
 
 I start with clarity around three things:
 
-**Where are we going?**
-The strategy, goals and outcomes that matter.
+**Where are we going?** The strategy, goals and outcomes that matter.
 
-**What do you own?**
-Clear scope and accountability.
+**What do you own?** Clear scope and accountability.
 
-**What does great look like?**
-The product and leadership standards expected from the team.
+**What does great look like?** The product and leadership standards expected from the team.
 
-I anchor goals in business outcomes, personal growth, contribution to the broader team and an innovation theme. I then use a consistent competency framework to make expectations explicit rather than relying on subjective judgment.
+I anchor goals in business outcomes, personal growth, contribution to the broader team and an innovation theme. I then use a consistent competency framework to make expectations explicit rather than relying on subjective judgment. Once that context is established, I deliberately push ownership down.
 
-Once that context is established, I deliberately push ownership down.
+My instinct is not: “Let me solve this for you.”
 
-My instinct is not:
+It is: **“How do you think we should solve it?”** Then I work with the PM to get there.
 
-“Let me solve this for you.”
-
-It is:
-
-**“How do you think we should solve it?”**
-
-Then I work with the PM to get there.
-
-That distinction matters.
-Because solving the problem for someone creates a solved problem. **Helping them solve it creates a better product manager**.
+That distinction matters. Because solving the problem for someone creates a solved problem. **Helping them solve it creates a better product manager**.
 
 ## 02 — BUILD PRODUCT CRAFT, DON'T DO THE WORK FOR THEM
 ### My job is to raise the standard of thinking.
 
-I coach PMs through the actual work rather than teaching product management as a theoretical discipline.
-
-A typical 1:1 isn't a status meeting.
-
-We might:
+I coach PMs through the actual work rather than teaching product management as a theoretical discipline. A typical 1:1 isn't a status meeting. We might:
 
 * Review a PRD line by line
 * Pressure-test a prioritization decision
@@ -65,29 +43,11 @@ We might:
 * Explore alternative solutions
 * Prepare for a difficult stakeholder conversation
 
-My questions are often more important than my answers:
+My questions are often more important than my answers: What's the real customer friction? What evidence supports this? Why this solution over the alternatives? What's the impact math? What are we missing?
 
-**What's the real customer friction?
+The goal is not for the PM to produce an artifact I approve. The goal is for them to eventually make the decision without needing my approval. That is how I think product craft gets transferred.
 
-What evidence supports this?
-
-Why this solution over the alternatives?
-
-What's the impact math?
-
-What are we missing?**
-
-The goal is not for the PM to produce an artifact I approve.
-
-The goal is for them to eventually make the decision without needing my approval.
-
-That is how I think product craft gets transferred.
-
-The measure I care about
-
-**My intervention should decline over time.**
-
-If I'm still making the same decisions for someone six months later, **my coaching isn't working**.
+The measure I care about **My intervention should decline over time.** If I'm still making the same decisions for someone six months later, **my coaching isn't working**.
 
 ## 03 — COACH THROUGH REAL SITUATIONS
 ### The best leadership lessons happen in the work.
