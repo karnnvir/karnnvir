@@ -1,91 +1,74 @@
-## I don't measure leadership by how much the team needs me.
+### I want to build teams that become better because I led them.
 
-I measure it by how much the team can accomplish **without me**.
+Over the years, my understanding of leadership has changed quite a bit. Earlier in my career, I probably thought a good leader was someone who could solve difficult problems, provide answers quickly and keep things moving. As I've moved into larger product leadership roles, I've realized that this approach doesn't scale very far.
 
-I don't want to be the person with all the answers. I want to create the clarity, standards, coaching, trust and opportunities that allow other people to make great decisions and own the outcomes.
+If every important decision still comes to me, I've created dependency, not leadership.
 
-My job is to: **Set the direction.
-Raise the bar.
-Develop judgment.
-Remove obstacles.
-Create ownership.
-Build the next generation of leaders.** And then gradually get out of the way.
+Today, I think my job is to create the environment in which people can make good decisions themselves. That means giving them context, setting a clear direction, helping them develop their judgment, removing organizational barriers and, perhaps most importantly, giving them enough ownership to actually lead.
 
-## 01 — CREATE CLARITY, THEN CREATE OWNERSHIP
-### People can't own what they don't understand.
+The measure of my leadership isn't how many decisions I make. **It's how many good decisions the team can make without me.**
 
-I start with clarity around three things:
+---
 
-**Where are we going?** The strategy, goals and outcomes that matter.
+### Give people clarity, then give them room
 
-**What do you own?** Clear scope and accountability.
+I've found that people generally don't struggle with ownership because they don't want it. More often, they struggle because the boundaries aren't clear. What exactly do I own? What outcome am I responsible for? Where can I make the decision myself? When should I involve someone else? How will my work be judged? I try to make those things explicit early.
 
-**What does great look like?** The product and leadership standards expected from the team.
+When I take on a new team or organization, I spend a lot of time getting alignment around the strategy, the outcomes we're trying to achieve and the ownership model. I don't want a PM to come to me six weeks into a project and discover that we had very different interpretations of what success looked like. Once that clarity exists, I deliberately try to step back.
 
-I anchor goals in business outcomes, personal growth, contribution to the broader team and an innovation theme. I then use a consistent competency framework to make expectations explicit rather than relying on subjective judgment. Once that context is established, I deliberately push ownership down.
+If a PM comes to me with a problem, my first instinct isn't to give them the answer. I'll usually ask, “What do you think we should do?” We talk through the options, the assumptions and the trade-offs. Sometimes I'll disagree strongly, but I want them to develop the ability to arrive at a sound decision themselves. That's an important distinction for me. **I don't want to solve the same problem for a PM twice.**
 
-My instinct is not: “Let me solve this for you.”
+---
 
-It is: **“How do you think we should solve it?”** Then I work with the PM to get there.
+### I use the work itself to develop people
 
-That distinction matters. Because solving the problem for someone creates a solved problem. **Helping them solve it creates a better product manager**.
+I don't believe much in separating “leadership development” from the actual work. A PRD can become a coaching session. A difficult stakeholder conversation can become a lesson in influence. A prioritization debate can become an opportunity to develop judgment.
 
-## 02 — BUILD PRODUCT CRAFT, DON'T DO THE WORK FOR THEM
-### My job is to raise the standard of thinking.
+Some of the most productive conversations I've had with PMs have been when we've taken something they were already working on and gone deeper into the thinking behind it. Why do you believe this is the customer's real problem? What evidence do we have? What alternatives did you consider? What happens if we're wrong? Why are we prioritizing this over something else?
 
-I coach PMs through the actual work rather than teaching product management as a theoretical discipline. A typical 1:1 isn't a status meeting. We might:
+Sometimes the PM changes their recommendation. Sometimes I change mine. That is actually the outcome I want. I'm less interested in having my answer accepted than in having the **quality of thinking improve**. Over time, I want the questions to become internalized. The PM shouldn't need me sitting beside them to ask, “What assumption are we making here?” They should start asking themselves that question. That's when coaching has actually worked.
 
-* Review a PRD line by line
-* Pressure-test a prioritization decision
-* Examine whether a metric is really an outcome
-* Challenge the depth of customer discovery
-* Look at the data behind a recommendation
-* Explore alternative solutions
-* Prepare for a difficult stakeholder conversation
+---
 
-My questions are often more important than my answers: What's the real customer friction? What evidence supports this? Why this solution over the alternatives? What's the impact math? What are we missing?
+### I try to create opportunities, not just responsibilities
 
-The goal is not for the PM to produce an artifact I approve. The goal is for them to eventually make the decision without needing my approval. That is how I think product craft gets transferred.
+I've also learned that giving someone ownership isn't enough to develop them.
 
-The measure I care about **My intervention should decline over time.** If I'm still making the same decisions for someone six months later, **my coaching isn't working**.
+A PM can own a large product for years and still not develop into a leader if they aren't given opportunities to influence outside their immediate area.
 
-## 03 — COACH THROUGH REAL SITUATIONS
-### The best leadership lessons happen in the work.
+So I deliberately look for opportunities for people to represent their work in larger forums, lead discussions with senior stakeholders, present business reviews, take on ambiguous problems and work across organizational boundaries.
 
-I don't believe leadership development happens primarily through training programs.
+Sometimes that means putting someone into a situation where they aren't completely comfortable yet.
 
-It happens when someone is actually facing a difficult decision.
+I've had PMs lead meetings while I sat back and observed. We've then discussed afterwards what worked, where they lost the room, what they could have done differently and how they might approach the next conversation.
 
-So I use the work itself as the classroom.
+I think this is particularly important as someone moves from being a strong PM to becoming a product leader. **The size of the problem has to grow, but so does the size of the influence.**
 
-When a stakeholder pushes back
+---
 
-I help the PM understand whether the problem is:
+### When I disagree with someone
 
-Willingness → build the case and create alignment
+I've had plenty of situations where an engineering leader, operations leader or senior executive has wanted to take the product in a direction I didn't agree with. My approach is generally to first understand whether we are actually disagreeing about the problem, the facts or the trade-off.
 
-or
+A good example was a discussion around whether Mexico should prioritize chatbot or voicebot capabilities. Rather than turning it into a debate about which team had the better idea, I tried to bring the conversation back to the two things that mattered: how quickly we could deliver and what would have the greater customer and business impact. We worked through the evidence, aligned the relevant teams and came forward with a recommendation. The decision eventually changed.
 
-Capacity → find resources and change the constraints
+The important part here is that I want people to feel they can disagree with me, and I want to be able to change my own mind when the evidence warrants it. I've learned that being right is less valuable than **making the organization better at making decisions.**
 
-When a PM makes a product decision I disagree with
+---
 
-I don't immediately give them my answer. I ask them to walk me through their reasoning. Then we challenge the assumptions together.
+### When a team says “no”
 
-When a PM has to lead a difficult meeting
+Another situation I've encountered often is a partner team saying they can't support something we need. My first reaction used to be frustration. I've learned to diagnose the problem instead. Sometimes “no” means “we don't believe this is important enough.” Sometimes it means “we agree, but we genuinely don't have the capacity.” Those require completely different responses. If it's willingness, I need to make the case better. I need to create visibility around the customer and business impact and get the right leaders aligned. If it's capacity, arguing harder doesn't solve anything. We need to look at funding, staffing, sequencing or scope.
 
-Sometimes I lead the meeting with them observing. Sometimes they lead while I observe. Then we debrief what happened.
+This distinction became particularly important when I was working across customer care and fulfillment. The customer outcome I was accountable for couldn't be improved by the Customer Care team alone. We needed other organizations to prioritize work that wasn't necessarily on their immediate roadmap. Rather than treating that as a stakeholder-management problem, I tried to make it a shared business problem. We created a common view of the customer journey, aligned on priorities and eventually worked through a model where the necessary capability could actually be funded.
 
-What worked? What didn't? What would you do differently next time?
+That experience reinforced something I use quite often: **When someone says no, first understand what the “no” actually means.**
 
-That creates judgment that can't be transferred through a template.
+---
 
-## 04 — MAKE THE BAR REPEATABLE
-### Great teams shouldn't depend on the leader's memory.
+### I believe leaders should create mechanisms, not dependency
 
-One of the ways I create scale is by turning expectations into mechanisms.
-
-I've used:
+As organizations grow, you can't personally coach every decision or sit in every meeting. That's why I've spent time creating teh following:
 
 **Product discovery playbooks**
 Opportunity framing, customer research, prioritization and definition of discovery done.
@@ -99,46 +82,41 @@ Hypothesis, metrics, guardrails, rollout tiers and scale/kill criteria.
 **AI product practices**
 AI PRDs, evaluation standards, golden test sets, rubrics and quality gates.
 
-The purpose isn't bureaucracy. **It's consistency.**
+The purpose isn't to introduce process for its own sake. It's to make good product behavior easier to repeat across the organization. I want a PM who joins the team six months from now to understand what good discovery looks like without having to learn it entirely through trial and error. And I want a strong PM to still feel free to challenge the mechanism when the situation requires it.
 
-The best process is one that raises the floor without lowering the ceiling.
+**Standards should create a floor, not a ceiling.**
 
-The PM should still be able to challenge the process.
+---
 
-But nobody should accidentally ship poor product work simply because they didn't know what good looked like.
+### Developing future product leaders
 
-## 05 — DEVELOP PEOPLE, NOT DEPENDENCIES
-### My ultimate responsibility is to create leaders who can replace me.
+One of the things I'm proudest of in my leadership career is seeing people I worked with grow into larger roles.
 
-This is probably the most important part of my leadership philosophy.
+I've seen PMs progress through multiple levels, from early-career roles through senior and staff/principal positions.
 
-I want PMs to grow through a deliberate progression:
+That doesn't happen through one promotion conversation.
 
-Own a problem
-↓
-Own a product
-↓
-Own an outcome
-↓
-Influence beyond the product
-↓
-Develop others
-↓
-Lead through other leaders
+For me, development is a progression.
 
-My role changes at each stage.
+Initially, I may provide a lot of structure. Then I start pushing more decision-making onto the person. I give them increasingly ambiguous problems, broader stakeholder exposure and eventually responsibility for developing others.
 
-Early on, I provide more structure.
+At some point, my role changes from coaching their decisions to creating opportunities for them to lead.
 
-As they develop, I provide more challenge.
+And eventually, I want them to be capable of doing some things better than I can.
 
-Eventually, I provide space, visibility and sponsorship.
+**My ultimate responsibility is to create leaders who can replace me. **
 
-The goal isn't simply promotion.
+---
 
-It is increasing the size of the problems they can independently solve.
+### Trust is built before you need it
 
-I've seen PMs in my teams progress through multiple levels — from APM → PM → Senior PM → Staff → Principal. For me, that is more meaningful evidence of leadership impact than any individual product launch.
+One of my leadership lessons has been around executive and stakeholder trust. You can't wait until you have a difficult situation to start building the relationship. I try to maintain a regular rhythm of communication with senior stakeholders — not just when I need a decision or when something has gone wrong.
+
+What are we seeing? What have we learned? Where are we behind? What decisions are coming? What are we changing? That transparency creates context over time. Then, when something does go wrong, you're not starting the relationship from zero.
+
+I've come to think of this as building trust in peacetime. You don't build credibility during the crisis, you cement your credibility during the crisis.
+
+---
 
 ## 06 — GIVE PEOPLE VISIBILITY, NOT JUST RESPONSIBILITY
 ### Ownership without visibility can limit growth.
@@ -159,78 +137,4 @@ I don't want my PMs to become excellent at explaining things to me.
 I want them to become excellent at explaining, influencing and defending their decisions to the organization.
 
 That is where product leadership starts to emerge.
-
-## 07 — BUILD TRUST BEFORE YOU NEED IT
-### Executive trust is built in peacetime.
-
-I've learned that stakeholder relationships shouldn't begin when something goes wrong.
-
-I invest in regular communication:
-
-**What's happening?
-What did we learn?
-What's changing?
-Where are we winning?
-Where are we struggling?
-What decisions are coming?**
-
-That early transparency creates a reservoir of trust.
-
-Then when something inevitably goes wrong, the conversation becomes:
-
-**“How do we solve this?”**
-
-rather than:
-
-“Why didn't you tell me?”
-
-My leadership principle is simple:
-
-**Don't collaborate with stakeholders only when you need something from them.**
-
-## 08 — INFLUENCE WITHOUT AUTHORITY
-### Product leadership is largely the ability to align people who don't report to you.
-
-Some of the hardest problems I've led required Engineering, Operations, Data, UX and business teams to change priorities even though I didn't control their roadmaps.
-
-My approach is usually:
-
-**Start with the shared problem** Create a common understanding of the customer and business issue.
-
-**Make the trade-offs visible** Put impact, effort, constraints and alternatives on the table.
-
-**Separate the disagreement from the person** Challenge the decision, not the stakeholder.
-
-**Bring a recommendation** Don't just bring the problem.
-
-**Make ownership explicit** Everyone should leave knowing what they own.
-
-One example was the customer-contact reduction charter, where only about 30% of the required care experiences were initially funded. I created a shared view of the customer journey, used a common prioritization approach across domains and worked with teams to create a fully resourced roadmap. The program ultimately reduced agent contacts by 40% over three years.
-
-The lesson: **Alignment becomes much easier when everyone can see the same problem and the same trade-offs.**
-
-## 09 — DISAGREE WITH EVIDENCE, NOT EGO
-I don't expect people to agree with me.
-
-In fact, I want people to challenge me.
-
-What I expect is that disagreement is accompanied by reasoning.
-
-When I disagreed with a senior leader on whether Mexico should prioritize a chatbot or voicebot, I didn't try to win the argument.
-
-I built the case around two things:
-
-**Impact** — which option would move the business outcome more?
-
-**Speed** — what could actually be delivered sooner?
-
-I aligned Engineering and Business first, then brought the recommendation forward.
-
-The decision changed.
-
-The lesson wasn't that I was right.
-
-It was: **Make it easy for someone to change their mind.**
-
-That requires evidence, clarity and respect rather than escalation or ego.
 
