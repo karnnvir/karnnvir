@@ -16,7 +16,7 @@ And now experiencing Product leadership change when software can reason, learn a
 
 [daily-habits](https://github.com/karnnvir/Daily-Habits) - A gamified personal habit tracker for tracking and managing daily habits
 
-This portfolio is a look at how I think, lead, operate, and what I'm building next.
+This portfolio is a look at how I think, lead, operate, my learnings and what I'm building next.
 
 [**How I Think**](https://github.com/karnnvir/karnnvir/blob/main/approach/How-I-Think.md)
 
@@ -53,7 +53,7 @@ It raises new questions:
 
 What should AI do? What should deterministic software do? And where should humans remain accountable?
 
-I'm exploring these questions through AI product thinking, AI development, evaluation, [governance](https://medium.com/@karanvir_singh/ai-governance-from-compliance-checklist-to-product-operating-system-0bd1a4f03e32) — and by actually building agents.
+I'm exploring these questions through AI product thinking, AI development, evaluation, [governance](https://medium.com/@karanvir_singh/ai-governance-from-compliance-checklist-to-product-operating-system-0bd1a4f03e32) , Trust, Autonomy, Human Judgment — and by actually building agents.
 
 **The Problems I've Spent My Career Wrestling With**
 
@@ -72,17 +72,6 @@ Build and scale consumer and B2B business?
 Behind every product outcome is a series of decisions.
 
 Build or buy? Stop or continue? Feature or system? AI or rules? Standardize or localize? The interesting part isn't just what decision was made. It's the why.
-
-
-**The Next Chapter**
-
-I'm building AI agents not just to learn the technology, but to explore what happens when software moves from answering questions to taking action.
-
-The goal isn't to build impressive demos.
-
-It's to understand the product questions behind them:
-
-Trust. Autonomy. Evaluation. Governance. Human judgment.
 
 
 <!--
