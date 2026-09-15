@@ -45,9 +45,7 @@ Because sustainable performance shouldn't depend on heroics.
 
 **AI & Agents**
 
-AI is changing the solution space for product teams.
-
-But it doesn't eliminate product judgment.
+AI is changing the solution space for product teams. But it doesn't eliminate product judgment.
 
 It raises new questions:
 
@@ -59,9 +57,9 @@ I'm exploring these questions through AI product thinking, AI development, evalu
 
 [Gen AI transformation of customer experience conversational Bots](./casestudy/GenAiTransformation.md)
 
-Reduce customer contacts without simply making the contact center more efficient
+[Reduce customer contacts without simply making the contact center more efficient](./casestudy/Contact-Avoidance.md)
 
-Turn millions of customer conversations into product decisions?
+[Turn millions of customer conversations into product decisions](./casestudy/Customer-Insights.md)
 
 Turn a collection of PMs into a product organization?
 
