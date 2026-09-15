@@ -51,7 +51,7 @@ It raises new questions:
 
 What should AI do? What should deterministic software do? And where should humans remain accountable?
 
-I'm exploring these questions through AI product thinking, AI development, evaluation, [governance](https://medium.com/@karanvir_singh/ai-governance-from-compliance-checklist-to-product-operating-system-0bd1a4f03e32) , Trust, Autonomy, Human Judgment — and by actually building agents.
+I'm exploring these questions through AI product thinking, AI development, evaluation, [governance](https://medium.com/@karanvir_singh/ai-governance-from-compliance-checklist-to-product-operating-system-0bd1a4f03e32) , Trust, [Autonomy](https://medium.com/@karanvir_singh/dont-give-ai-autonomy-earn-it-330a8cf89b4d?sk=6870f6b49dd1b4d487122edfd69ec685), Human Judgment — and by actually building agents.
 
 **The Problems I've Spent My Career Wrestling With**
 
