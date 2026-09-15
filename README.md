@@ -57,9 +57,9 @@ I'm exploring these questions through AI product thinking, AI development, evalu
 
 **The Problems I've Spent My Career Wrestling With**
 
-Reduce customer contacts without simply making the contact center more efficient?
+[Gen AI transformation of customer experience conversational Bots](./casestudy/GenAiTransformation.md)
 
-Introduce GenAI into a high-volume customer experience without sacrificing trust?
+Reduce customer contacts without simply making the contact center more efficient
 
 Turn millions of customer conversations into product decisions?
 
