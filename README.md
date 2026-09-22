@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨‍💻 My name is Karanvir and I live in Bangalore, IN with my wife and son. I am a Product Leader at Walmart Global Tech where I support the Customer Service Experience team.
+👨‍💻 My name is Karanvir and I live in Bangalore with my wife and son. I am a Product Leader at Walmart Global Tech where I support the Customer Service Experience team.
 
 **I build products, teams and systems that solve complex customer problems.**
 
@@ -53,7 +53,8 @@ What should AI do? What should deterministic software do? And where should human
 
 I'm exploring these questions through AI product thinking, AI development, evaluation, [governance](https://medium.com/@karanvir_singh/ai-governance-from-compliance-checklist-to-product-operating-system-0bd1a4f03e32) , Trust, [Autonomy](https://medium.com/@karanvir_singh/dont-give-ai-autonomy-earn-it-330a8cf89b4d?sk=6870f6b49dd1b4d487122edfd69ec685), Human Judgment — and by actually building agents.
 
-**The Problems I've Spent My Career Wrestling With**
+
+**Few Problems I've Spent My Career Wrestling With**
 
 [Gen AI transformation of customer experience conversational Bots](./casestudy/GenAiTransformation.md)
 
@@ -61,9 +62,6 @@ I'm exploring these questions through AI product thinking, AI development, evalu
 
 [Turn millions of customer conversations into product decisions](./casestudy/Customer-Insights.md)
 
-Turn a collection of PMs into a product organization?
-
-Build and scale consumer and B2B business?
 
 **Decisions I've Made**
 
