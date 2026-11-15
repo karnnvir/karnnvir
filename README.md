@@ -16,6 +16,10 @@ And now experiencing Product leadership change when software can reason, learn a
 
 [daily-habits](https://github.com/karnnvir/Daily-Habits) - A gamified personal habit tracker for tracking and managing daily habits
 
+[momentum-dashboard](https://github.com/karnnvir/momentum-dashboard) - Weekly momentum screener for Nifty Next 50 + Midcap 150
+
+[expense-decryptor](https://github.com/karnnvir/expense-decryptor) - Tool to analyze your expenses with bank and card statements imported from your gmail account
+
 This portfolio is a look at how I think, lead, operate, my learnings and what I'm building next.
 
 [**How I Think**](https://github.com/karnnvir/karnnvir/blob/main/approach/How-I-Think.md)
