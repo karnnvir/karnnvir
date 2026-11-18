@@ -26,7 +26,7 @@ The AI surfaced these inconsistencies at scale, allowing us to improve the taxon
 
 An insight is only valuable if the right team acts on it. We created a mechanism to push relevant insights directly to the domain teams responsible for solving them. Payments, post-order, fulfillment and returns teams received insights relevant to their areas.
 
-Across these four teams, seven major use cases were identified and acted upon, ultimately contributing to a reduction of approximately 30,000 customer contacts annually.
+Across these four teams, seven major use cases were identified and acted upon, ultimately contributing to a reduction of approximately 500,000 customer contacts annually.
 
 That completed the loop I was trying to create:
 
@@ -40,7 +40,7 @@ We moved from manually analyzing a small portion of customer feedback every week
 
 Reduced the to and fro between teams to udnerstand the issue, find the relevant orders, time to do Root cause analysis
 
-The result was early detection of approximately 30% of issues, seven major use cases acted upon across four product domains, and approximately 30,000 fewer customer contacts annually.
+The result was early detection of approximately 30% of issues, seven major use cases acted upon across four product domains, and approximately 500,000 fewer customer contacts annually.
 
 ### What I Learned — AI Becomes Powerful When It Connects the System
 
